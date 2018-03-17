@@ -1,5 +1,12 @@
 [
   {
+    "title": "Rmd_template",
+    "author": "Hana",
+    "date": "2018/3/17",
+    "output": "html_document",
+    "url": "Rmd_template.html"
+  },
+  {
     "title": "test",
     "author": "Hiroaki Yutani",
     "date": "2015年7月4日",
